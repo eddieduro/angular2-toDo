@@ -1,7 +1,7 @@
 import { Component, EventEmitter } from 'angular2/core';
 import { TaskListComponent } from './task-list.component';
 import { Task } from './task.model';
-
+import { NewTaskComponent } from './new-task.components';
 
 @Component({
   selector: 'my-app',
